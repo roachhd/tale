@@ -1,7 +1,7 @@
 # Site settings
 title:          Tale
 description:    "A Little site for storytelling"
-baseurl:        "/tale/"
+baseurl:        "/tale//"
 url:            "https://roachhd.github.io"
 
 # Google Analytics
